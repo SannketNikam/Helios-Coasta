@@ -1,0 +1,16 @@
+#bg{
+   opacity: .6;
+}
+.head{
+   position: absolute;
+   top: 60%;
+   font-size: 80px;
+   width: 20%;
+   font-family: 'Hind Madurai', sans-serif;
+   font-style: italic;
+   opacity: .9;
+}
+.flex-box{
+   display: flex;
+   justify-content: center;
+}
