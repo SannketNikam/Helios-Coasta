@@ -1,0 +1,8 @@
+body {
+            background-color: rgb(254, 245, 255);
+        }
+
+        .about-us>p {
+            padding: 15px 30px;
+            font-size: 22px;
+        }
